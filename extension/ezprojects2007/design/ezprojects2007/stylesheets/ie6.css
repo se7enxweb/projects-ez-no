@@ -1,0 +1,6 @@
+/* IE6 SPECIAL CSS - th[eZ]20051205 */
+
+div.input
+{
+  padding-right: 0.5em; /* Prevents form elements from breaking width settings */
+}

@@ -1,0 +1,31 @@
+eZURLFilter extension
+
+
+ Filter types
+*********************
+
+=, !=
+in, not in
+like, not like
+
+
+
+ Example code
+*********************
+
+{def $ezLinks=fetch( 'content','tree',
+                     hash( 'parent_node_id', 2,
+                          'extended_attribute_filter', hash( 'id', 'eZURLFilter',
+                                                             'params', array( 'or', array( 'link/location', 'like', 'http://ez.no/community/*' ), array( 'link/location', 'like', 'http://ez.no/bugs/*' )))))}
+
+{def $ezLinks=fetch( 'content','tree',
+                     hash( 'parent_node_id', 2,
+                          'extended_attribute_filter', hash( 'id', 'eZURLFilter',
+                                                             'params', array( array( 'link/location', '=', 'http://ez.no' )))))}
+
+
+
+ Notes
+*********************
+
+Based on the ObjectRelationFilter and the attribute filter of eZContentObjectTreeNode

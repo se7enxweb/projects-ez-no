@@ -1,0 +1,6 @@
+/* GECKO SPECIAL CSS - th[eZ]20051205 */
+
+pre
+{
+    overflow: -moz-scrollbars-horizontal;  /* hide vertical scrollbar */
+}

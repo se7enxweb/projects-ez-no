@@ -1,0 +1,57 @@
+/* IE5 + IE6 SPECIAL CSS - th[eZ]20051205 */
+
+input#searchbutton
+{
+    font-size: 0.85em;
+}
+
+div#main
+{ 
+    margin-top: 0;
+    margin-bottom: 0.5em;
+}
+
+div.template-object
+{
+    overflow: hidden;
+}
+
+div.float-insert
+{
+    position: relative;
+    overflow: hidden;  /* Hides long non-breaking lines and terminates bugs */
+}
+
+input.button, input.button-disabled
+{
+    padding: 0 0.5em 0 0.5em;
+    overflow: visible;  /* Fix for %-padding on input buttons */
+}
+
+div#contentmenu div.boxcontent /* hide vertical scrollbar in IE */
+{
+    overflow-x: auto; 
+    overflow-y: hidden;
+}
+
+pre
+{
+    width: 95%;
+    overflow-x: auto; 
+    overflow-y: hidden;
+}
+
+pre.copytoclipboard 
+{ 
+    padding-right: 20px;
+}
+
+div#contentmenu div.boxcontent 
+{ 
+    width: 100%; 
+}
+
+div.node-view-products div.split-main div.class-banner, div.node-view-products div.split-sidebar div.class-banner, div.node-view-services div.split-main div.class-banner, div.node-view-services div.split-sidebar div.class-banner
+{
+     padding-top: 0.75em;
+}

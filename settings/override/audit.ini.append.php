@@ -1,0 +1,6 @@
+<?php /*
+
+[AuditSettings]
+Audit=enabled
+
+*/ ?>

@@ -1,0 +1,6 @@
+vendor
+run-tests-tmp
+extract
+composer.lock
+composer.phar
+.phpunit.result.cache

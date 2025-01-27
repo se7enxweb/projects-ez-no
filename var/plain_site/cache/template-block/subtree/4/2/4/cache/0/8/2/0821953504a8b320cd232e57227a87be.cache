@@ -1,0 +1,59 @@
+<div class="template-design area-sidebar-normal">
+<div class="template-module content-view-sidebar">
+<div class="template-object class-project">
+
+<div class="attribute-heading">
+    <h2 class="bullet"><a href="/ezpedia/forum">Latest forum activity</a></h2>
+</div>
+    <ul class="linklist">
+                                <li>
+                                    
+
+
+
+<div class="content-view-list">
+<div class="class-forummessage">
+        
+
+
+            <h3><a title="Posted by: kracker : I noticed these existing issues and suggestions content on eZpedia
+
+&lt;i&gt;http://ezpedia.org/wiki/en/ez/issues
+http://ezpedia.org/wiki/en/ez/suggestions&lt;/i&gt;
+
+&lt;i&gt;//kracker
+
+Home Movies - Season 4 Bonus Disc - Duane&#039;s Practice and Big Solo&lt;/i&gt;" href="/ezpedia/forum/general/improving_ezpedia#msg1415">Improving eZpedia</a></h3>
+    
+        <div class="attribute-byline float-break">
+        <p class="date">28 Sep 2007 08:49</p>
+        <p class="author"><a href="/users/community/kracker">kracker </a></p>
+    </div>
+</div>
+</div>                            </li>
+                                            <li>
+                                    
+
+
+
+<div class="content-view-list">
+<div class="class-forummessage">
+        
+
+
+            <h3><a title="Posted by: kracker : &lt;b&gt;Client Side Script Collapsible Page Sidebar&lt;/b&gt;
+
+Would it be nice if the user controls currently embeded in the right side of the page layout the &lt;i&gt;&quot;header image, search, object information, this article, create, languages, visitors&quot;&lt;/i&gt; blocks could be hidden using client side script?
+
+Perhaps minimized in a way similar to the issue tracker search adva..." href="/ezpedia/forum/general/ezpedia_frontpage_improvements#msg1355">ezpedia frontpage improvements</a></h3>
+    
+        <div class="attribute-byline float-break">
+        <p class="date">08 Sep 2007 18:22</p>
+        <p class="author"><a href="/users/community/kracker">kracker </a></p>
+    </div>
+</div>
+</div>                            </li>
+                        </ul>
+</div>
+</div>
+</div>

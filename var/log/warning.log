@@ -1,0 +1,329 @@
+[ Jan 27 2025 01:45:14 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'content'
+[ Jan 27 2025 01:45:14 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 01:45:16 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Script start
+[ Jan 27 2025 01:45:16 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 01:45:27 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'user'
+[ Jan 27 2025 01:45:27 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 01:45:52 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'content'
+[ Jan 27 2025 01:45:52 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 01:45:53 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Script start
+[ Jan 27 2025 01:45:53 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 01:45:58 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'content'
+[ Jan 27 2025 01:45:58 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 01:45:58 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Script start
+[ Jan 27 2025 01:45:58 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 01:49:49 ] [149.154.161.233] Timing Point: Module start 'content'
+[ Jan 27 2025 01:49:49 ] [149.154.161.233] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:03:11 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'content'
+[ Jan 27 2025 02:03:11 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:03:12 ] [2601:601:600:17b0:e822:7c4f:b133:973e] eZTemplate:attribute_view_gui @ extension/ezprojects2007/design/ezprojects2007/override/templates/full/user.tpl:25[4]:
+Parameter attribute is not an object
+[ Jan 27 2025 02:03:12 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Script start
+[ Jan 27 2025 02:03:12 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:03:12 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Script start
+[ Jan 27 2025 02:03:12 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:03:22 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'content'
+[ Jan 27 2025 02:03:22 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:03:22 ] [2601:601:600:17b0:e822:7c4f:b133:973e] eZTemplate:attribute_view_gui @ extension/ezprojects2007/design/ezprojects2007/override/templates/full/user.tpl:25[4]:
+Parameter attribute is not an object
+[ Jan 27 2025 02:03:23 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Script start
+[ Jan 27 2025 02:03:23 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:04:09 ] [174.164.150.239] Timing Point: Module start 'content'
+[ Jan 27 2025 02:04:09 ] [174.164.150.239] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:04:10 ] [174.164.150.239] Timing Point: Script start
+[ Jan 27 2025 02:04:10 ] [174.164.150.239] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:04:36 ] [149.154.161.202] Timing Point: Module start 'content'
+[ Jan 27 2025 02:04:36 ] [149.154.161.202] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:04:36 ] [149.154.161.202] eZTemplate:attribute_view_gui @ extension/ezprojects2007/design/ezprojects2007/override/templates/full/user.tpl:25[4]:
+Parameter attribute is not an object
+[ Jan 27 2025 02:05:21 ] [102.215.77.246] Timing Point: Module start 'content'
+[ Jan 27 2025 02:05:21 ] [102.215.77.246] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:05:21 ] [102.215.77.246] eZTemplate:attribute_view_gui @ extension/ezprojects2007/design/ezprojects2007/override/templates/full/user.tpl:25[4]:
+Parameter attribute is not an object
+[ Jan 27 2025 02:05:23 ] [102.215.77.246] Timing Point: Script start
+[ Jan 27 2025 02:05:23 ] [102.215.77.246] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:05:24 ] [102.215.77.246] Timing Point: Script start
+[ Jan 27 2025 02:05:24 ] [102.215.77.246] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:05:45 ] [102.215.77.246] Timing Point: Module start 'content'
+[ Jan 27 2025 02:05:45 ] [102.215.77.246] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:05:45 ] [102.215.77.246] eZTemplate:attribute_view_gui @ extension/ezprojects2007/design/ezprojects2007/override/templates/full/user.tpl:25[4]:
+Parameter attribute is not an object
+[ Jan 27 2025 02:05:47 ] [102.215.77.246] Timing Point: Script start
+[ Jan 27 2025 02:05:47 ] [102.215.77.246] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:05:55 ] [192.175.111.244] Timing Point: Module start 'content'
+[ Jan 27 2025 02:05:55 ] [192.175.111.244] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:05:59 ] [192.175.111.252] Timing Point: Module start 'content'
+[ Jan 27 2025 02:05:59 ] [192.175.111.252] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:05:59 ] [64.15.129.102] Timing Point: Script start
+[ Jan 27 2025 02:05:59 ] [64.15.129.102] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:06:00 ] [64.15.129.117] Timing Point: Module start 'content'
+[ Jan 27 2025 02:06:00 ] [64.15.129.117] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:06:00 ] [192.175.111.252] Timing Point: Module start 'content'
+[ Jan 27 2025 02:06:00 ] [192.175.111.252] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:06:01 ] [102.215.77.246] Timing Point: Module start 'content'
+[ Jan 27 2025 02:06:01 ] [102.215.77.246] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:06:01 ] [102.215.77.246] eZTemplate:attribute_view_gui @ extension/ezprojects2007/design/ezprojects2007/override/templates/full/user.tpl:25[4]:
+Parameter attribute is not an object
+[ Jan 27 2025 02:06:03 ] [102.215.77.246] Timing Point: Script start
+[ Jan 27 2025 02:06:03 ] [102.215.77.246] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:06:05 ] [102.215.77.246] Timing Point: Script start
+[ Jan 27 2025 02:06:05 ] [102.215.77.246] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:06:40 ] [102.215.77.246] Timing Point: Module start 'content'
+[ Jan 27 2025 02:06:40 ] [102.215.77.246] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:06:40 ] [102.215.77.246] eZTemplate:attribute_view_gui @ extension/ezprojects2007/design/ezprojects2007/override/templates/full/user.tpl:25[4]:
+Parameter attribute is not an object
+[ Jan 27 2025 02:06:42 ] [102.215.77.246] Timing Point: Script start
+[ Jan 27 2025 02:06:42 ] [102.215.77.246] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:24:14 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'content'
+[ Jan 27 2025 02:24:14 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:24:14 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_WARNING:
+foreach() argument must be of type array|object, null given in /home/ze/public_html/projects.ezpublish.one/lib/eztemplate/classes/eztemplate.php on line 1980
+[ Jan 27 2025 02:24:14 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_WARNING:
+foreach() argument must be of type array|object, null given in /home/ze/public_html/projects.ezpublish.one/lib/eztemplate/classes/eztemplate.php on line 1980
+[ Jan 27 2025 02:24:14 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_WARNING:
+foreach() argument must be of type array|object, null given in /home/ze/public_html/projects.ezpublish.one/lib/eztemplate/classes/eztemplate.php on line 1980
+[ Jan 27 2025 02:24:14 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_WARNING:
+foreach() argument must be of type array|object, null given in /home/ze/public_html/projects.ezpublish.one/lib/eztemplate/classes/eztemplate.php on line 1980
+[ Jan 27 2025 02:24:14 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_WARNING:
+foreach() argument must be of type array|object, null given in /home/ze/public_html/projects.ezpublish.one/lib/eztemplate/classes/eztemplate.php on line 1980
+[ Jan 27 2025 02:24:14 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_WARNING:
+foreach() argument must be of type array|object, null given in /home/ze/public_html/projects.ezpublish.one/lib/eztemplate/classes/eztemplate.php on line 1980
+[ Jan 27 2025 02:24:14 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Script start
+[ Jan 27 2025 02:24:14 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:24:56 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'content'
+[ Jan 27 2025 02:24:56 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:24:56 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Script start
+[ Jan 27 2025 02:24:56 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:24:59 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'content'
+[ Jan 27 2025 02:24:59 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:24:59 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Script start
+[ Jan 27 2025 02:24:59 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:25:03 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'content'
+[ Jan 27 2025 02:25:03 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:25:04 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Script start
+[ Jan 27 2025 02:25:04 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:25:10 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'user'
+[ Jan 27 2025 02:25:10 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:26:13 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'user'
+[ Jan 27 2025 02:26:13 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:26:25 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'user'
+[ Jan 27 2025 02:26:25 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:30:28 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'user'
+[ Jan 27 2025 02:30:28 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:30:31 ] [174.164.150.239] Timing Point: Module start 'user'
+[ Jan 27 2025 02:30:31 ] [174.164.150.239] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:30:31 ] [174.164.150.239] Timing Point: Module end 'user'
+[ Jan 27 2025 02:30:31 ] [174.164.150.239] eZTemplate:
+Operator 'ezcss_load' is not registered
+[ Jan 27 2025 02:30:31 ] [174.164.150.239] eZTemplate:
+Operator 'ezscript_load' is not registered
+[ Jan 27 2025 02:31:38 ] [174.164.150.239] Timing Point: Module start 'user'
+[ Jan 27 2025 02:31:38 ] [174.164.150.239] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:31:38 ] [174.164.150.239] Timing Point: Module end 'user'
+[ Jan 27 2025 02:31:38 ] [174.164.150.239] ezjscPacker::packFiles:
+Could not find: stylesheets/responsive.css
+[ Jan 27 2025 02:31:38 ] [174.164.150.239] ezjscPacker::packFiles:
+Could not find: javascript/ezadmin_menubar.js
+[ Jan 27 2025 02:32:10 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'content'
+[ Jan 27 2025 02:32:10 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:32:11 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Script start
+[ Jan 27 2025 02:32:11 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:32:28 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'content'
+[ Jan 27 2025 02:32:28 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:32:58 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'content'
+[ Jan 27 2025 02:32:58 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:32:58 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_WARNING:
+foreach() argument must be of type array|object, null given in /home/ze/public_html/projects.ezpublish.one/lib/eztemplate/classes/eztemplate.php on line 1980
+[ Jan 27 2025 02:32:58 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_WARNING:
+foreach() argument must be of type array|object, null given in /home/ze/public_html/projects.ezpublish.one/lib/eztemplate/classes/eztemplate.php on line 1980
+[ Jan 27 2025 02:32:58 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_WARNING:
+foreach() argument must be of type array|object, null given in /home/ze/public_html/projects.ezpublish.one/lib/eztemplate/classes/eztemplate.php on line 1980
+[ Jan 27 2025 02:32:58 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_WARNING:
+foreach() argument must be of type array|object, null given in /home/ze/public_html/projects.ezpublish.one/lib/eztemplate/classes/eztemplate.php on line 1980
+[ Jan 27 2025 02:32:58 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_WARNING:
+foreach() argument must be of type array|object, null given in /home/ze/public_html/projects.ezpublish.one/lib/eztemplate/classes/eztemplate.php on line 1980
+[ Jan 27 2025 02:32:58 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_WARNING:
+foreach() argument must be of type array|object, null given in /home/ze/public_html/projects.ezpublish.one/lib/eztemplate/classes/eztemplate.php on line 1980
+[ Jan 27 2025 02:33:11 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'content'
+[ Jan 27 2025 02:33:11 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:33:11 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_DEPRECATED:
+Creation of dynamic property eZURL::$URL is deprecated in /home/ze/public_html/projects.ezpublish.one/kernel/classes/ezpersistentobject.php on line 92
+[ Jan 27 2025 02:33:11 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_DEPRECATED:
+Creation of dynamic property eZURL::$OriginalURLMD5 is deprecated in /home/ze/public_html/projects.ezpublish.one/kernel/classes/ezpersistentobject.php on line 92
+[ Jan 27 2025 02:33:11 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_DEPRECATED:
+Creation of dynamic property eZURL::$IsValid is deprecated in /home/ze/public_html/projects.ezpublish.one/kernel/classes/ezpersistentobject.php on line 92
+[ Jan 27 2025 02:33:11 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_DEPRECATED:
+Creation of dynamic property eZURL::$LastChecked is deprecated in /home/ze/public_html/projects.ezpublish.one/kernel/classes/ezpersistentobject.php on line 92
+[ Jan 27 2025 02:33:11 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_DEPRECATED:
+Creation of dynamic property eZURL::$URL is deprecated in /home/ze/public_html/projects.ezpublish.one/kernel/classes/ezpersistentobject.php on line 92
+[ Jan 27 2025 02:33:11 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_DEPRECATED:
+Creation of dynamic property eZURL::$OriginalURLMD5 is deprecated in /home/ze/public_html/projects.ezpublish.one/kernel/classes/ezpersistentobject.php on line 92
+[ Jan 27 2025 02:33:11 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_DEPRECATED:
+Creation of dynamic property eZURL::$IsValid is deprecated in /home/ze/public_html/projects.ezpublish.one/kernel/classes/ezpersistentobject.php on line 92
+[ Jan 27 2025 02:33:11 ] [2601:601:600:17b0:e822:7c4f:b133:973e] PHP: E_DEPRECATED:
+Creation of dynamic property eZURL::$LastChecked is deprecated in /home/ze/public_html/projects.ezpublish.one/kernel/classes/ezpersistentobject.php on line 92
+[ Jan 27 2025 02:33:15 ] [2601:601:600:17b0:e822:7c4f:b133:973e] Timing Point: Module start 'content'
+[ Jan 27 2025 02:33:15 ] [2601:601:600:17b0:e822:7c4f:b133:973e] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:36:45 ] [52.36.11.39] Timing Point: Module start 'user'
+[ Jan 27 2025 02:36:45 ] [52.36.11.39] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Jan 27 2025 02:36:46 ] [52.36.11.39] Timing Point: Module start 'user'
+[ Jan 27 2025 02:36:46 ] [52.36.11.39] :
+Path 'extension/syndication/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/syndication/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.

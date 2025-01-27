@@ -1,0 +1,1529 @@
+Oct 04 22:29:00 [Info] 
+INITIATING UPGRADE
+
+Oct 04 22:29:00 [Info] The existing installation is located locally at /web/vh/projects/doc/
+
+Oct 04 22:29:00 [Info] The existing installation is located locally at /web/vh/projects/doc/
+
+Oct 04 22:29:00 [Info] Dumping database
+
+Oct 04 22:29:00 [Info] Dumping database
+
+Oct 04 22:29:00 [Info] Dumping database
+
+Oct 04 22:30:06 [Info] projects: OK (110,6 MB)
+
+Oct 04 22:30:06 [Info] projects: OK (110,6 MB)
+
+Oct 04 22:30:06 [Info] projects: OK (110,6 MB)
+
+Oct 04 22:30:06 [Info] projects: OK (110,6 MB)
+
+Oct 04 22:30:07 [Info] Upgrading projects from version 4.0.2 to version 4.4.0
+
+Oct 04 22:30:07 [Info] Upgrading projects from version 4.0.2 to version 4.4.0
+
+Oct 04 22:30:07 [Info] Upgrading projects from version 4.0.2 to version 4.4.0
+
+Oct 04 22:30:07 [Info] Upgrading projects from version 4.0.2 to version 4.4.0
+
+Oct 04 22:30:07 [Info] Upgrading projects from version 4.0.2 to version 4.4.0
+
+Oct 04 22:30:07 [Info] Checking requirements 
+Oct 04 22:30:07 [Info] Checking requirements 
+Oct 04 22:30:07 [Info] Checking requirements 
+Oct 04 22:30:07 [Info] Checking requirements 
+Oct 04 22:30:07 [Info] Checking requirements 
+Oct 04 22:30:07 [Info] Checking requirements 
+Oct 04 22:30:07 [Info] OK
+
+Oct 04 22:30:07 [Info] OK
+
+Oct 04 22:30:07 [Info] OK
+
+Oct 04 22:30:07 [Info] OK
+
+Oct 04 22:30:07 [Info] OK
+
+Oct 04 22:30:07 [Info] OK
+
+Oct 04 22:30:07 [Info] OK
+
+Oct 04 22:30:07 [Info] Performing pre-upgrade checks 
+Oct 04 22:30:07 [Info] Performing pre-upgrade checks 
+Oct 04 22:30:07 [Info] Performing pre-upgrade checks 
+Oct 04 22:30:07 [Info] Performing pre-upgrade checks 
+Oct 04 22:30:07 [Info] Performing pre-upgrade checks 
+Oct 04 22:30:07 [Info] Performing pre-upgrade checks 
+Oct 04 22:30:07 [Info] Performing pre-upgrade checks 
+Oct 04 22:30:07 [Info] Performing pre-upgrade checks 
+Oct 04 22:30:07 [Info] OK
+
+Oct 04 22:30:07 [Info] OK
+
+Oct 04 22:30:07 [Info] OK
+
+Oct 04 22:30:07 [Info] OK
+
+Oct 04 22:30:07 [Info] OK
+
+Oct 04 22:30:07 [Info] OK
+
+Oct 04 22:30:07 [Info] OK
+
+Oct 04 22:30:07 [Info] OK
+
+Oct 04 22:30:07 [Info] OK
+
+Oct 04 22:30:07 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:30:07 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:30:07 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:30:07 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:30:07 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:30:07 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:30:07 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:30:07 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:30:07 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:30:07 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:35:50 [Info] 
+INITIATING UPGRADE
+
+Oct 04 22:35:50 [Info] The existing installation is located locally at /web/vh/projects/doc/
+
+Oct 04 22:35:50 [Info] The existing installation is located locally at /web/vh/projects/doc/
+
+Oct 04 22:35:50 [Info] Dumping database
+
+Oct 04 22:35:50 [Info] Dumping database
+
+Oct 04 22:35:50 [Info] Dumping database
+
+Oct 04 22:36:43 [Info] projects: OK (110,6 MB)
+
+Oct 04 22:36:43 [Info] projects: OK (110,6 MB)
+
+Oct 04 22:36:43 [Info] projects: OK (110,6 MB)
+
+Oct 04 22:36:43 [Info] projects: OK (110,6 MB)
+
+Oct 04 22:36:43 [Info] Upgrading projects from version 4.0.2 to version 4.4.0
+
+Oct 04 22:36:43 [Info] Upgrading projects from version 4.0.2 to version 4.4.0
+
+Oct 04 22:36:43 [Info] Upgrading projects from version 4.0.2 to version 4.4.0
+
+Oct 04 22:36:43 [Info] Upgrading projects from version 4.0.2 to version 4.4.0
+
+Oct 04 22:36:43 [Info] Upgrading projects from version 4.0.2 to version 4.4.0
+
+Oct 04 22:36:43 [Info] Checking requirements 
+Oct 04 22:36:43 [Info] Checking requirements 
+Oct 04 22:36:43 [Info] Checking requirements 
+Oct 04 22:36:43 [Info] Checking requirements 
+Oct 04 22:36:43 [Info] Checking requirements 
+Oct 04 22:36:43 [Info] Checking requirements 
+Oct 04 22:36:43 [Info] OK
+
+Oct 04 22:36:43 [Info] OK
+
+Oct 04 22:36:43 [Info] OK
+
+Oct 04 22:36:43 [Info] OK
+
+Oct 04 22:36:43 [Info] OK
+
+Oct 04 22:36:43 [Info] OK
+
+Oct 04 22:36:43 [Info] OK
+
+Oct 04 22:36:43 [Info] Performing pre-upgrade checks 
+Oct 04 22:36:43 [Info] Performing pre-upgrade checks 
+Oct 04 22:36:43 [Info] Performing pre-upgrade checks 
+Oct 04 22:36:43 [Info] Performing pre-upgrade checks 
+Oct 04 22:36:43 [Info] Performing pre-upgrade checks 
+Oct 04 22:36:43 [Info] Performing pre-upgrade checks 
+Oct 04 22:36:43 [Info] Performing pre-upgrade checks 
+Oct 04 22:36:43 [Info] Performing pre-upgrade checks 
+Oct 04 22:36:43 [Info] OK
+
+Oct 04 22:36:43 [Info] OK
+
+Oct 04 22:36:43 [Info] OK
+
+Oct 04 22:36:43 [Info] OK
+
+Oct 04 22:36:43 [Info] OK
+
+Oct 04 22:36:43 [Info] OK
+
+Oct 04 22:36:43 [Info] OK
+
+Oct 04 22:36:43 [Info] OK
+
+Oct 04 22:36:43 [Info] OK
+
+Oct 04 22:36:44 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:36:44 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:36:44 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:36:44 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:36:44 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:36:44 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:36:44 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:36:44 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:36:44 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:36:44 [Info] Downloading distro (ezpublish.tar.gz)
+
+Oct 04 22:38:45 [Info] OK
+
+Oct 04 22:38:45 [Info] OK
+
+Oct 04 22:38:45 [Info] OK
+
+Oct 04 22:38:45 [Info] OK
+
+Oct 04 22:38:45 [Info] OK
+
+Oct 04 22:38:45 [Info] OK
+
+Oct 04 22:38:45 [Info] OK
+
+Oct 04 22:38:45 [Info] OK
+
+Oct 04 22:38:45 [Info] OK
+
+Oct 04 22:38:45 [Info] OK
+
+Oct 04 22:38:45 [Info] OK
+
+Oct 04 22:38:45 [Info] Extracting ezpublish.tar.gz 
+Oct 04 22:38:45 [Info] Extracting ezpublish.tar.gz 
+Oct 04 22:38:45 [Info] Extracting ezpublish.tar.gz 
+Oct 04 22:38:45 [Info] Extracting ezpublish.tar.gz 
+Oct 04 22:38:45 [Info] Extracting ezpublish.tar.gz 
+Oct 04 22:38:45 [Info] Extracting ezpublish.tar.gz 
+Oct 04 22:38:45 [Info] Extracting ezpublish.tar.gz 
+Oct 04 22:38:45 [Info] Extracting ezpublish.tar.gz 
+Oct 04 22:38:45 [Info] Extracting ezpublish.tar.gz 
+Oct 04 22:38:45 [Info] Extracting ezpublish.tar.gz 
+Oct 04 22:38:45 [Info] Extracting ezpublish.tar.gz 
+Oct 04 22:38:45 [Info] Extracting ezpublish.tar.gz 
+Oct 04 22:39:15 [Info] OK
+
+Oct 04 22:39:15 [Info] OK
+
+Oct 04 22:39:15 [Info] OK
+
+Oct 04 22:39:15 [Info] OK
+
+Oct 04 22:39:15 [Info] OK
+
+Oct 04 22:39:15 [Info] OK
+
+Oct 04 22:39:15 [Info] OK
+
+Oct 04 22:39:15 [Info] OK
+
+Oct 04 22:39:15 [Info] OK
+
+Oct 04 22:39:15 [Info] OK
+
+Oct 04 22:39:15 [Info] OK
+
+Oct 04 22:39:15 [Info] OK
+
+Oct 04 22:39:15 [Info] OK
+
+Oct 04 22:39:22 [Info] Copying files
+
+Oct 04 22:39:22 [Info] Copying files
+
+Oct 04 22:39:22 [Info] Copying files
+
+Oct 04 22:39:22 [Info] Copying files
+
+Oct 04 22:39:22 [Info] Copying files
+
+Oct 04 22:39:22 [Info] Copying files
+
+Oct 04 22:39:22 [Info] Copying files
+
+Oct 04 22:39:22 [Info] Copying files
+
+Oct 04 22:39:22 [Info] Copying files
+
+Oct 04 22:39:22 [Info] Copying files
+
+Oct 04 22:39:22 [Info] Copying files
+
+Oct 04 22:39:22 [Info] Copying files
+
+Oct 04 22:39:22 [Info] Copying files
+
+Oct 04 22:39:22 [Info] Copying files
+
+Oct 04 22:39:22 [Info] Copying var/ directory 
+Oct 04 22:39:22 [Info] Copying var/ directory 
+Oct 04 22:39:22 [Info] Copying var/ directory 
+Oct 04 22:39:22 [Info] Copying var/ directory 
+Oct 04 22:39:22 [Info] Copying var/ directory 
+Oct 04 22:39:22 [Info] Copying var/ directory 
+Oct 04 22:39:22 [Info] Copying var/ directory 
+Oct 04 22:39:22 [Info] Copying var/ directory 
+Oct 04 22:39:22 [Info] Copying var/ directory 
+Oct 04 22:39:22 [Info] Copying var/ directory 
+Oct 04 22:39:22 [Info] Copying var/ directory 
+Oct 04 22:39:22 [Info] Copying var/ directory 
+Oct 04 22:39:22 [Info] Copying var/ directory 
+Oct 04 22:39:22 [Info] Copying var/ directory 
+Oct 04 22:39:22 [Info] Copying var/ directory 
+Oct 04 22:39:26 [Info] OK
+
+Oct 04 22:39:26 [Info] OK
+
+Oct 04 22:39:26 [Info] OK
+
+Oct 04 22:39:26 [Info] OK
+
+Oct 04 22:39:26 [Info] OK
+
+Oct 04 22:39:26 [Info] OK
+
+Oct 04 22:39:26 [Info] OK
+
+Oct 04 22:39:26 [Info] OK
+
+Oct 04 22:39:26 [Info] OK
+
+Oct 04 22:39:26 [Info] OK
+
+Oct 04 22:39:26 [Info] OK
+
+Oct 04 22:39:26 [Info] OK
+
+Oct 04 22:39:26 [Info] OK
+
+Oct 04 22:39:26 [Info] OK
+
+Oct 04 22:39:26 [Info] OK
+
+Oct 04 22:39:26 [Info] OK
+
+Oct 04 22:39:26 [Info] Copying extension/addcollabrule 
+Oct 04 22:39:26 [Info] Copying extension/addcollabrule 
+Oct 04 22:39:26 [Info] Copying extension/addcollabrule 
+Oct 04 22:39:26 [Info] Copying extension/addcollabrule 
+Oct 04 22:39:26 [Info] Copying extension/addcollabrule 
+Oct 04 22:39:26 [Info] Copying extension/addcollabrule 
+Oct 04 22:39:26 [Info] Copying extension/addcollabrule 
+Oct 04 22:39:26 [Info] Copying extension/addcollabrule 
+Oct 04 22:39:26 [Info] Copying extension/addcollabrule 
+Oct 04 22:39:26 [Info] Copying extension/addcollabrule 
+Oct 04 22:39:26 [Info] Copying extension/addcollabrule 
+Oct 04 22:39:26 [Info] Copying extension/addcollabrule 
+Oct 04 22:39:26 [Info] Copying extension/addcollabrule 
+Oct 04 22:39:26 [Info] Copying extension/addcollabrule 
+Oct 04 22:39:26 [Info] Copying extension/addcollabrule 
+Oct 04 22:39:26 [Info] Copying extension/addcollabrule 
+Oct 04 22:39:26 [Info] Copying extension/addcollabrule 
+Oct 04 22:39:26 [Info] OK 
+
+Oct 04 22:39:26 [Info] OK 
+
+Oct 04 22:39:26 [Info] OK 
+
+Oct 04 22:39:26 [Info] OK 
+
+Oct 04 22:39:26 [Info] OK 
+
+Oct 04 22:39:26 [Info] OK 
+
+Oct 04 22:39:26 [Info] OK 
+
+Oct 04 22:39:26 [Info] OK 
+
+Oct 04 22:39:26 [Info] OK 
+
+Oct 04 22:39:26 [Info] OK 
+
+Oct 04 22:39:26 [Info] OK 
+
+Oct 04 22:39:26 [Info] OK 
+
+Oct 04 22:39:26 [Info] OK 
+
+Oct 04 22:39:26 [Info] OK 
+
+Oct 04 22:39:26 [Info] OK 
+
+Oct 04 22:39:26 [Info] OK 
+
+Oct 04 22:39:26 [Info] OK 
+
+Oct 04 22:39:26 [Info] OK 
+
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:26 [Info] Copying extension/autorss 
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] OK 
+
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:27 [Info] Copying extension/ezdhtml 
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] OK 
+
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:28 [Info] Copying extension/ezfind 
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] OK 
+
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:49 [Info] Copying extension/ezfind-2.0-alpha1.zip 
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] OK 
+
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:50 [Info] Copying extension/ezfind-2.1.0-rc2.tar.gz 
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:51 [Info] OK 
+
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:39:59 [Info] Copying extension/ezprojects 
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] OK 
+
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:00 [Info] Copying extension/ezprojects2007 
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] Copying extension/ezprojects_export 
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] OK 
+
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:01 [Info] Copying extension/ezrating 
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] Copying extension/ezsh 
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] Copying extension/ezssp 
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] Copying extension/ezsubtreerelationfilter 
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:02 [Info] OK 
+
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 
+Oct 04 22:40:03 [Info] Copying extension/ezupgrade 

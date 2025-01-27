@@ -1,0 +1,27 @@
+/* DYNAMIC WIDTH CSS */
+
+div#page-width1, div#page-width2, div#page-width3, div#page-width4, div#page-width5, div#page-width6
+{
+    width: auto;
+    margin: 0 2em 0 2em;
+}
+
+div#page-width1
+{
+    position: static;
+}
+
+div#logo
+{
+    left: 2em;
+}
+
+div#searchbox
+{
+    right: 2em;
+}
+
+ul#language-menu
+{
+    right: 1.5em;
+}

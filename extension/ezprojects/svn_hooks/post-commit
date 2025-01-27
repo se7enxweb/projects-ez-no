@@ -1,0 +1,6 @@
+#!/bin/sh
+
+REPOS="$1"
+REV="$2"
+
+/usr/local/apache-php5/php5/bin/php /home/projects.ez.no/www5/extension/ezprojects/bin/php/post-commit.php "$REPOS" "$REV"

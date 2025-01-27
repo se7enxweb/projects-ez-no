@@ -1,0 +1,131 @@
+<div class="attribute-heading" style="margin-top:3.5em;">
+    <h1><a href="http://ez.no/community/open_funding">Latest Open Funding suggestions</a></h1>
+</div>
+
+
+<div class="content-view-line">
+<div class="class-article">
+
+
+<div class="attribute-heading">
+    <h2><a title="eZ Community Extension" href="http://ez.no/developer/open_funding/suggestions_for_new_functionality/ez_community_extension">eZ Community Extension</a></h2>
+</div>
+
+
+<div class="attribute-byline float-break">
+    <p class="date">Saturday 30 May 2009 07:58</p>
+    <div class="break"></div>
+</div>
+
+
+<div class="attribute-short">
+    
+<p>A community project for creating a community extension.This can be a co-operation project like cosmosui.org (read more about it). Where we have a extension who connects to ez where every plugin can communicate with this extension.Plugins:* Easier blogging system - users could create blogs theyre self, choosing if blog in subdomain or in folder and wich folder.* Profile system - give users theyre own channels with private messaging, information, latest activity.... They could also choose style if administrator set &quot;yes&quot;* Bookmarking - Give users a option to easy get acess to pages. Example: Interesting article about dogs. The user an save it as a bookmark and choose if he want to publish it to profile or have it private.* User groups - A portal pages for groups including: Forums, News, Members, Files, Mailing list ...*Mailing list and Newsletter - Let users signup for a mailing list created by editors advanced functionality is the hting here. And Mailing list improving the social thing more!* Forums - adding bbcodes, profil boxes and changing layout* Youtube like function</p></div>
+
+
+<div class="attribute-link">
+    <p><a href="http://ez.no/developer/open_funding/suggestions_for_new_functionality/ez_community_extension">Read more...</a></p>
+</div>
+
+</div>
+</div>
+
+
+<div class="content-view-line">
+<div class="class-article">
+
+
+<div class="attribute-heading">
+    <h2><a title="Wiki style page creation" href="http://ez.no/developer/open_funding/suggestions_for_new_functionality/wiki_style_page_creation">Wiki style page creation</a></h2>
+</div>
+
+
+<div class="attribute-byline float-break">
+    <p class="date">Friday 27 February 2009 19:16</p>
+    <div class="break"></div>
+</div>
+
+
+<div class="attribute-short">
+    
+<p>Allow a page to be created &#039;on the fly&#039; when that page doesn&#039;t exist.When creating a link to an ezobject (e.g. when using OE), if the object does not exist, allow user to create it via a dialogue which allows them to specify content class, the minimum required attributes of that class and the main location of new node. Each of these values should carry defaults. Could default to a class which only requires a title and carries a default location to be a sub-item of the current item.Much of the UI is already in place (as per search or browse when ezobject link type is selected) but would need a &#039;Create here&#039; button added and a cut-down version of the content creation form to only include the minimum required attributes. Dialogue could also be manually opened or could be triggered by for example detection of CamelCase text in content.</p></div>
+
+
+<div class="attribute-link">
+    <p><a href="http://ez.no/developer/open_funding/suggestions_for_new_functionality/wiki_style_page_creation">Read more...</a></p>
+</div>
+
+</div>
+</div>
+
+<div class="article-list">        <div class="article-listitem bglight">
+            
+
+<div class="content-view-list">
+<div class="class-comment">
+
+<h3><a title="HTTP acceleration with Varnish" href="http://ez.no/developer/open_funding/suggestions_for_new_functionality/http_acceleration_with_varnish">HTTP acceleration with Varnish</a></h3>
+
+<div class="attribute-byline float-break">
+    <p class="date">Tuesday 18 March 2008 04:48</p>
+</div>
+
+</div>
+</div>
+        </div>        <div class="article-listitem bgdark">
+            
+
+<div class="content-view-list">
+<div class="class-comment">
+
+<h3><a title="OpenID Support" href="http://ez.no/developer/open_funding/suggestions_for_new_functionality/openid_support">OpenID Support</a></h3>
+
+<div class="attribute-byline float-break">
+    <p class="date">Tuesday 04 March 2008 11:52</p>
+</div>
+
+</div>
+</div>
+        </div>        <div class="article-listitem bglight">
+            
+
+<div class="content-view-list">
+<div class="class-comment">
+
+<h3><a title="Messaging Functionality" href="http://ez.no/developer/open_funding/suggestions_for_new_functionality/messaging_functionality">Messaging Functionality</a></h3>
+
+<div class="attribute-byline float-break">
+    <p class="date">Monday 03 March 2008 02:08</p>
+</div>
+
+</div>
+</div>
+        </div>        <div class="article-listitem bgdark">
+            
+
+<div class="content-view-list">
+<div class="class-comment">
+
+<h3><a title="Fuzzy and wildcard search for eZ Find" href="http://ez.no/developer/open_funding/suggestions_for_new_functionality/fuzzy_and_wildcard_search_for_ez_find">Fuzzy and wildcard search for eZ Find</a></h3>
+
+<div class="attribute-byline float-break">
+    <p class="date">Friday 29 February 2008 08:20</p>
+</div>
+
+</div>
+</div>
+        </div>        <div class="article-listitem bglight">
+            
+
+<div class="content-view-list">
+<div class="class-comment">
+
+<h3><a title="Oracle For EZ 4.0" href="http://ez.no/developer/open_funding/suggestions_for_new_functionality/oracle_for_ez_4_0">Oracle For EZ 4.0</a></h3>
+
+<div class="attribute-byline float-break">
+    <p class="date">Wednesday 09 January 2008 06:13</p>
+</div>
+
+</div>
+</div>
+        </div></div>

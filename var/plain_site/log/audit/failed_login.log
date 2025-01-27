@@ -1,0 +1,12 @@
+[ Jan 27 2025 02:26:13 ] [2601:601:600:17b0:e822:7c4f:b133:973e] [anonymous:10]
+User login: bc
+Comment: Failed login attempt: eZUser::loginUser()
+
+[ Jan 27 2025 02:26:25 ] [2601:601:600:17b0:e822:7c4f:b133:973e] [anonymous:10]
+User login: bc
+Comment: Failed login attempt: eZUser::loginUser()
+
+[ Jan 27 2025 02:30:28 ] [2601:601:600:17b0:e822:7c4f:b133:973e] [anonymous:10]
+User login: bc
+Comment: Failed login attempt: eZUser::loginUser()
+

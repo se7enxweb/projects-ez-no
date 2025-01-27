@@ -1,0 +1,11 @@
+/* IE5 SPECIAL CSS - th[eZ]20051205 */
+
+div#header, div#main, div.template-object
+{ 
+    width: 100%;  /* Avoids width bug, by setting this specificly */
+}
+
+pre.wordwrap span.line 
+{ 
+    display: inline; 
+}

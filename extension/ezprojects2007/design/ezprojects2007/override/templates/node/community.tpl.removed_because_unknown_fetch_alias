@@ -1,0 +1,265 @@
+{* Left area *}
+<div class="template-design area-main-normal">
+<div class="template-module node-view-community">
+<div class="template-object">
+
+
+{* Show field1 *}
+{section show=$node.data_map.field1.has_content}
+    {attribute_view_gui attribute=$node.data_map.field1}
+{section-else} {* Show only header if field1 is empty. Field1 is assumed to be used for a banner *}
+    <div class="attribute-heading">
+        <h1>{$node.name|wash}</h1>
+    </div>
+{/section}
+
+{* Latest news *}
+{cache-block subtree_expiry="community/news/"}
+<div class="sectionheader">
+    <h1><a href={"/community/news"|ezurl}>Latest News</a></h1>
+</div>
+
+{let news_list=fetch_alias( children, hash( parent_node_id, 63,
+                                            sort_by, array( published, false() ),
+                                            limit, 4 ) )}
+{node_view_gui view=line content_node=$news_list.0}
+
+<div class="article-list">
+    {section loop=$news_list offset=1 sequence=array( 'bglight', 'bgdark' )}
+        <div class="article-listitem {$:sequence}">
+            {node_view_gui view=listitem content_node=$:item show_extra_info=true()}
+        </div>
+    {/section}
+</div>
+{/let}
+{/cache-block}
+{* End latest news *}
+
+{* Show field2 *}
+{section show=$node.data_map.field2.has_content}
+    {attribute_view_gui attribute=$node.data_map.field2}
+{/section}
+
+{* Show Latest articles *}
+{cache-block subtree_expiry="/content/view/full/69297"}
+<div class="sectionheader">
+    <h1><a href={"/community/articles"|ezurl}>Latest Articles</a></h1>
+</div>
+
+{let article_list=fetch_alias( articles_list, hash( parent_node_id, 69297,
+                                                    sort_by, array( 'attribute', false(), 'article_container/publication_date' ),
+  			         					            limit, 4 ) )}
+
+{node_view_gui view=line content_node=$article_list.0}
+
+<div class="article-list">
+    {section loop=$article_list offset=1 sequence=array( 'bglight', 'bgdark' )}
+        <div class="article-listitem {$:sequence}">
+            {node_view_gui view=listitem content_node=$:item show_extra_info=true()}
+        </div>
+    {/section}
+</div>
+{/let}
+{/cache-block}
+{* End articles *}
+
+
+{* Show field3 *}
+{section show=$node.data_map.field3.has_content}
+    {attribute_view_gui attribute=$node.data_map.field3}
+{/section}
+
+{* User group news *}
+{cache-block subtree_expiry="/content/view/full/64698"}
+<div class="sectionheader">
+    <h1><a href={"/community/user_groups"|ezurl}>User group news</a></h1>
+</div>
+{let article_list=fetch( content, tree, hash( parent_node_id, 64698,
+  			         					      limit, 4,
+                                              sort_by, array( published, false() ),
+                                              class_filter_type, include,
+                                              class_filter_array, array( article ) ) )}
+{node_view_gui view=line content_node=$article_list.0}
+
+<div class="article-list">
+    {section loop=$article_list offset=1 sequence=array( 'bglight', 'bgdark' )}
+        <div class="article-listitem {$:sequence}">
+            {node_view_gui view=listitem content_node=$:item show_extra_info=true()}
+        </div>
+    {/section}
+</div>
+
+{/let}
+{/cache-block}
+{* End User group *}
+
+
+{* Show field4 *}
+{section show=$node.data_map.field4.has_content}
+    {attribute_view_gui attribute=$node.data_map.field4}
+{/section}
+
+</div>
+</div>
+</div>
+{* End left area *}
+
+
+{* Right area *}
+<div class="area-sidebar-normal">
+
+
+{* Show field5 *}
+{section show=$node.data_map.field5.has_content}
+<div class="template-design">
+<div class="template-module node-view-community">
+<div class="template-object">
+    {attribute_view_gui attribute=$node.data_map.field5}
+</div>
+</div>
+</div>
+{/section}
+
+<div class="template-design">
+<div class="template-module node-view-community">
+<div class="template-object">
+    <div class="attribute-heading"><h2 class="bullet">Developer Zone</h2></div>
+    <ul class="linklist">
+        <li><a href="/ezpublish">eZ Publish</a></li>
+        <li><a href="/ezcomponents">eZ Components</a></li>
+    </ul>
+
+</div>
+</div>
+</div>
+
+{* Show forum messages *}
+{cache-block subtree_expiry="/content/view/full/308"}
+<div class="template-design">
+<div class="template-module node-view-community">
+<div class="template-object">
+{let forum_list=fetch_alias( last_forum_replies, hash( parent_node_id, 308 ) )}
+{section show=$forum_list}
+    <div class="attribute-heading">
+        <h2 class="bullet"><a href={"/community/forum"|ezurl}>Latest forum activity</a></h2>
+    </div>
+    <ul class="linklist">
+        {section loop=$forum_list}
+            {let last_reply_array=fetch_alias( last_forum_reply, hash( parent_node_id, $:item.node_id ))
+                 last_reply=$last_reply_array.0}
+            <li>
+                {section show=$:last_reply}
+                    {node_view_gui view=listitem content_node=$:last_reply show_extra_info=true()}
+                {section-else}
+                    {node_view_gui view=listitem content_node=$:item show_extra_info=true()}
+                {/section}
+            </li>
+            {/let}
+        {/section}
+        </ul>
+{/section}
+{/let}
+
+</div>
+</div>
+</div>
+{/cache-block}
+{* End forum messages *}
+
+
+{* Show contributions *}
+{cache-block subtree_expiry="/content/view/full/21358"}
+<div class="template-design">
+<div class="template-module node-view-community">
+<div class="template-object">
+
+{let contrib_list=fetch_alias( last_contributions )}
+{section show=$contrib_list}
+<div class="attribute-heading">
+    <h2 class="bullet"><a href={"/community/contributions"}>Contributions</a></h2>
+</div>
+    <ul class="linklist">
+        {section var=contrib loop=$contrib_list}
+            <li>{node_view_gui view=listitem content_node=$contrib.item show_extra_info=true()}</li>
+        {/section}
+    </ul>
+{/section}
+{/let}
+</div>
+</div>
+</div>
+{/cache-block}
+{* End contributions *}
+
+
+{* Show Comments *}
+<div class="template-design">
+<div class="template-module node-view-community">
+<div class="template-object">
+
+<div class="attribute-heading">
+    <h2 class="bullet">Comments</h2>
+</div>
+{let comment_list=fetch( content, tree, hash( parent_node_id, 19,
+                                              limit, 4,
+                                              class_filter_type, include,
+                                              class_filter_array, array( 19, 22 ),
+                 				              sort_by, array( array( 'published', false() ) ) ) )}
+{section show=$comment_list}
+    <ul class="linklist">
+        {section var=comment loop=$comment_list}
+            <li>{node_view_gui view=listitem content_node=$comment.item show_extra_info=true()}</li>
+        {/section}
+    </ul>
+{/section}
+{/let}
+
+</div>
+</div>
+</div>
+{* End Comments *}
+
+{* Show Planet eZ Publish *}
+{* Cache for 20 minutes. The activity is pretty slow... *}
+{cache-block expiry=1200 ignore_content_expiry}
+{let planetezpublish_feed=ezrssfeed( "http://www.planetezpublish.org/rss/feed/rss20.xml", 5, true(), false() )}
+{section show=$planetezpublish_feed}
+<div class="template-design">
+<div class="template-module node-view-community">
+<div class="template-object">
+    <div class="attribute-heading">
+        <h2 class="bullet"><a href="http://www.planetezpublish.org/">Planet eZ Publish</a></h2>
+    </div>
+    <ul class="linklist">
+        {section var=planetitem loop=$planetezpublish_feed.items}
+            <li>
+           		<a href="{$planetitem.link.content}">{$planetitem.title.content|wash}</a>
+				<div class="attribute-byline float-break">
+        			<p class="date">{$planetitem.pubDate.content}</p>
+        			<p class="author">{$planetitem.author.content}</p>
+    			</div>
+			</li>
+        {/section}
+    </ul>
+</div>
+</div>
+</div>
+{/section}
+{/let}
+{/cache-block}
+{* End Planet eZ Publish *}
+
+{* Show field6 *}
+{section show=$node.data_map.field6.has_content}
+<div class="template-design">
+<div class="template-module node-view-community">
+<div class="template-object">
+    {attribute_view_gui attribute=$node.data_map.field6}
+</div>
+</div>
+</div>
+{/section}
+
+
+</div>
+{* End right area *}

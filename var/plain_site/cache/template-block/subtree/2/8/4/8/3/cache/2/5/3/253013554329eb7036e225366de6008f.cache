@@ -1,0 +1,11 @@
+<div class="template-design area-sidebar-normal">
+<div class="template-module content-view-sidebar">
+<div class="template-object class-project">
+
+<div class="attribute-heading">
+    <h2 class="bullet"><a href="/index.php/wikimarkup/news">Latest news</a></h2>
+</div>
+<p>No news yet.</p>
+</div>
+</div>
+</div>

@@ -1,0 +1,58 @@
+        
+<script type="text/javascript">
+<!--
+var menu = new Array();
+
+menu[0] = [];
+menu[1] = [];
+menu[2] = [];
+menu[3] = [];
+menu[4] = ['General', '/ezpedia/forum/general'];
+menu[5] = ['Leaders', '/ezpedia/team/leaders', 'Members', '/ezpedia/team/members'];
+menu[6] = [];
+menu[7] = [];
+
+-->
+</script>
+<div id="menuborder">
+
+<!-- Main menu area: START -->
+<div id="menu" onmouseover="menuHover();" onmouseout="tryHideSubMenues();">
+
+<div id="mainmenu" class="float-break">
+<div id="page-width2">
+    <ul id="mainmenulist" class="float-break">
+
+    <li class="project" ><a href="/ezpedia" onmouseover="switchSubMenu( this );">eZpedia &nbsp;&nbsp;&gt;&gt;</a></li>
+                        <li ><a href="/ezpedia/news" onmouseover="switchSubMenu( this );">News</a></li>
+                            <li ><a href="/ezpedia/reviews" onmouseover="switchSubMenu( this );">Reviews</a></li>
+                            <li ><a href="/ezpedia/downloads" onmouseover="switchSubMenu( this );">Downloads</a></li>
+                            <li ><a href="/ezpedia/forum" onmouseover="switchSubMenu( this );">Forum</a></li>
+                            <li ><a href="/ezpedia/team" onmouseover="switchSubMenu( this );">Team</a></li>
+                            <li ><a href="/ezpedia/subversion" onmouseover="switchSubMenu( this );">Subversion</a></li>
+                            <li class="last"><a href="/ezpedia/gallery" onmouseover="switchSubMenu( this );">Gallery</a></li>
+        
+    </ul>
+
+</div>
+</div>
+
+
+<div id="submenu">
+<div id="page-width3">
+    <ul class="float-break">
+
+    
+
+</ul>
+</div>
+</div>
+
+<script type="text/javascript"><!--
+document.getElementById('submenu').style.display = 'none';
+--></script>
+
+</div>
+<!-- Main menu area: END -->
+
+</div>
